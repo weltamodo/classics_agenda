@@ -1,0 +1,107 @@
+body {
+    color: rgb(146, 21, 21);
+    font-family: Verdana, Arial, Geneva;
+    font-weight: normal;
+    font-size: 25px;
+    background-image: url("_SCF3061.jpeg");
+}
+
+#divcourses {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 120%;
+    padding-left: 100;
+}
+
+#divlatin {
+     background-image: url("_SCF3122.jpeg");
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100%;
+   padding-top: 0;
+   padding-bottom: 0;
+   padding-left: 100;
+   margin-top: 0;
+   margin-bottom: 0;
+   border-top: 0;
+   border-bottom: 0;
+   content:0;
+}
+
+h1 {
+    text-decoration: underline;
+    font-size: 150%;
+    text-align: center;
+}
+ 
+h2 {
+    text-decoration: underline;
+    font-size: 1.2em;
+    text-align: left;
+    color: black;
+    padding-left: 30px;
+}
+
+h3 {
+    color: rgb(17, 77, 43);
+    padding-left: 30px;
+    text-indent: 50px;
+}
+
+h4 {
+    font-size: 80%;
+    color: rgb(88, 48, 88);
+    padding-left: 250px;
+}
+
+h5  {
+    text-indent: 200px;
+}
+
+h6 {
+    text-indent:250px;
+}
+
+p.accidence  {
+    padding-left: 250px;
+    font-size:smaller;
+    color: rgb(27, 81, 27);
+}
+p.syntax {
+    padding-left: 250px;
+    font-size:smaller;
+    color: rgb(22, 22, 114);
+}
+#para1homepage {
+    color: rgb(81, 24, 28);
+    font-size: 80%;
+    padding-left: 50px;
+}
+    
+p.paragraph {
+    color: purple;
+    font-size: 15px;
+    line-height: 1.5em;
+    background-color: #e5e4d7;
+    padding-left: 30px;
+    border: 2px solid black;
+    background-image: url("DSCF8562.jpeg");
+    border-radius: 10px;
+    margin: 20px 300px 20px 50px; /* Simplified margin values */
+}
+
+#para4homepage {
+    color: black;
+    font-size: 15px;
+    line-height: 1.5em;
+    background-image: url("DSCF8562.jpeg");
+    padding: 20px;
+    border: thick ridge #296a64;
+    margin: 50px 300px 20px 400px; /* Adjusted margin shorthand */
+}
+
+.imagec {
+    display: block;
+    margin: 0 auto; /* Center the image */
+    padding: 3px;
+    background-color: silver;
+    border: 2px solid black;
+}
